@@ -100,6 +100,7 @@ class _GroceryListState extends State<GroceryList> {
             _removedItem(_groceryItems[index]);
           },
           key: ValueKey(_groceryItems[index].id),
+          background: Container(color: Colors.red),
           child: ListTile(
             title: Text(_groceryItems[index].name),
             leading: Container(
