@@ -16,3 +16,10 @@ After submitting the item details, the application retrieves all the items from 
 
 ![Ekran görüntüsü 2024-01-31 220846](https://github.com/yusufgulumser/ShopListApp/assets/141070340/c5dcb0d7-c878-48fc-93b9-f6fb412ff3a0)
 
+Delete items:
+The items can be deleted by swiping to the right or left.
+
+![Ekran görüntüsü 2024-01-31 234507](https://github.com/yusufgulumser/ShopListApp/assets/141070340/591bccf4-9d6f-43e1-94d6-7105a3a9b052)
+
+
+
